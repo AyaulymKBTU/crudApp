@@ -1,0 +1,24 @@
+{
+  "name": "crud-d",
+  "version": "1.0.0",
+  "description": "this package will add templates and classes to your project according to url you provide using odata so that after installation your app will support CRUD operations on data got from defined source.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyaulymKBTU/crud_angular.git"
+  },
+  "keywords": [
+    "angular4",
+    "crud"
+  ],
+  "author": "AyaulymKBTU",
+
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyaulymKBTU/crud_angular/issues"
+  },
+  "homepage": "https://github.com/AyaulymKBTU/crud_angular#readme"
+}
